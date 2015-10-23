@@ -4,7 +4,7 @@ B2FTP (Build to FTP) is a simple command line interface to upload build files to
 I mainly use this as a quick way for me to upload my build files made in Flambe/2DKit to an FTP server. The project started out as a way for me to learn Neko and I have improved it ever since to be more robust and easy to use.
 
 # Download
-* [B2FTP.exe](https://docs.google.com/uc?authuser=0&id=0B_P9tqmR0jHZZ3pXRU1Tb2kzakkc&export=download) (Windows)
+* [B2FTP.exe](https://drive.google.com/file/d/0B_P9tqmR0jHZZ3pXRU1Tb2kzakk/view?pli=1) (Windows)
 
 # How to Use
 Using the command prompt just type B2FTP.exe and supply the following options.
